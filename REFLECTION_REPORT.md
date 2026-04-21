@@ -94,5 +94,5 @@ The most challenging aspect was ensuring data quality and handling edge cases in
 
 **Certification**: I certify that this work is my own and complies with the University's Academic Integrity Policy.
 
-**Signature:** ___Yuqian.Huang24_____________  
-**Date:** ______2026/4/21__________
+**Signature:** ___Yuqian.Huang24  
+**Date:** ______2026/4/21
