@@ -10,13 +10,6 @@ import os
 for key in ["HTTP_PROXY", "HTTPS_PROXY", "http_proxy", "https_proxy", "ALL_PROXY", "all_proxy"]:
     os.environ.pop(key, None)
 
-
-try:
-    r = requests.get('https://httpbin.org/ip', timeout=10)
-    print("your ip is :", r.json()['origin'])
-except Exception as e:
-    print("agent test fails:", e)
-
 import time
 import random
 import streamlit as st
