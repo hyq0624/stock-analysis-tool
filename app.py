@@ -7,8 +7,8 @@ Date: April 2026
 import requests
 import os
 
-os.environ['HTTP_PROXY'] = 'http://127.0.0.1:7897'
-os.environ['HTTPS_PROXY'] = 'http://127.0.0.1:7897'
+for key in ["HTTP_PROXY", "HTTPS_PROXY", "http_proxy", "https_proxy", "ALL_PROXY", "all_proxy"]:
+    os.environ.pop(key, None)
 
 
 try:
