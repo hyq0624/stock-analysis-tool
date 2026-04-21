@@ -257,12 +257,3 @@ streamlit run app.py --logger.level=debug
 
 This project is provided for educational purposes as part of ACC102 coursework.
 
-## Contact & Support
-
-For questions or issues, please contact the course instructor or refer to the course materials.
-
----
-
-**Last Updated:** April 2026  
-**Version:** 1.0.0  
-**Status:** Complete and ready for production use
