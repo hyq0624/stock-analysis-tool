@@ -1,8 +1,8 @@
 # Reflection Report: Interactive Stock Market Analysis Tool
 ## ACC102 Mini Assignment - Track 4
 
-**Student Name:** [Your Name]  
-**Student ID:** [Your ID]  
+**Student Name:** [Yuqian.Huang24]  
+**Student ID:** [2473074]  
 **Date:** April 2026  
 **Word Count:** 750
 
